@@ -1,0 +1,3 @@
+either (A) or (B)
+such (A) that (B)
+not only (A) but also (B)
