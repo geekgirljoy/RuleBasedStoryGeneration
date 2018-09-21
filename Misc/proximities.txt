@@ -1,0 +1,16 @@
+above
+around
+below
+beyond
+close to
+far from
+in
+inside
+near
+next to
+on
+outside
+to the east of
+to the north of
+to the south of
+to the west of
