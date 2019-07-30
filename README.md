@@ -9,8 +9,9 @@ For example, lets say I create a generative “rule” like this:
 
 Seems simple enough but this rule can actually generate quite a few mildly interesting sentences, like this one for example:
 
-in a railroad station, aliens attacked.
-Result: (proximity: in) (location: a railroad station), (event: aliens attacked).
+> in a railroad station, aliens attacked.
+
+**Result:** (proximity: in) (location: a railroad station), (event: aliens attacked).
 
 Not bad huh? [Keep Reading at my Blog](https://geekgirljoy.wordpress.com/2018/09/13/rule-based-story-generation/)
 
