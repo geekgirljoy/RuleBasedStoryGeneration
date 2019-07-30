@@ -6,7 +6,7 @@ function LoadListFile($filename){
     $file = fopen($filename, 'r') or die('Unable to open file! $filename' . PHP_EOL); // open the file
     $data = fread($file,filesize($filename)); // read all of the data from the file
     fclose($file); // close the file
-    $data = explode(PHP_EOL, $data); // array
+    $data = explode("\n", $data); // array
     
     return $data;
 }
