@@ -5,7 +5,8 @@ The idea is pretty simple actually, if you select or write good rules then the r
 
 For example, lets say I create a generative “rule” like this:
 
-Rule: proximity location, event.
+**Rule:** proximity location, event.
+
 Seems simple enough but this rule can actually generate quite a few mildly interesting sentences, like this one for example:
 
 in a railroad station, aliens attacked.
